@@ -2,7 +2,7 @@
 /**
  * main - This is a cis program that prints a line using printf function
  *
- * Return: 0 (Successful)
+ * Return: Always 0 (Successful)
  */
 int main(void)
 {
